@@ -78,7 +78,7 @@
       <div class="container">
         <a href="/" class="logo-font">conduit</a>
         <span class="attribution">
-          An interactive learning project from <a href="https://thinkster.io">Thinkster</a>. Code &amp; design licensed under MIT.Thanks for TianHaiyuan.
+          An interactive learning project from <a href="https://thinkster.io">Thinkster</a>. Code &amp; design licensed under MIT.Thanks for Tian Haiyuan.
         </span>
       </div>
     </footer>
